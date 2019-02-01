@@ -11,11 +11,11 @@ The modulation schemes supported are
 -	in the uplink, QPSK, 16QAM, 64QAM and 256QAM for OFDM with a CP and π/2-BPSK, QPSK, 16QAM, 64QAM and 256QAM for DFT-s-OFDM with a CP
 
 
-TS 38.201	NR; Physical layer; General description	 
-TS 38.202	NR; Services provided by the physical layer	 
-TS 38.211	NR; Physical channels and modulation	 
-TS 38.212	NR; Multiplexing and channel coding	 
-TS 38.213	NR; Physical layer procedures for control	 
-TS 38.214	NR; Physical layer procedures for data
+* TS 38.201	NR; Physical layer; General description	 
+* TS 38.202	NR; Services provided by the physical layer	 
+* TS 38.211	NR; Physical channels and modulation	 
+* TS 38.212	NR; Multiplexing and channel coding	 
+* TS 38.213	NR; Physical layer procedures for control	 
+* TS 38.214	NR; Physical layer procedures for data
 
 
