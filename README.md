@@ -19,3 +19,5 @@ The modulation schemes supported are
 * TS 38.214	NR; Physical layer procedures for data
 
 
+## Reference links
+1. [http://www.rfwireless-world.com/Articles/5G-NR-Physical-Layer.html](RFWireless 5G Physical Layer)
