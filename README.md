@@ -19,6 +19,10 @@ The modulation schemes supported are
 * TS 38.213	NR; Physical layer procedures for control	 
 * TS 38.214	NR; Physical layer procedures for data
 
+## Tutorial Videos
+[![Understanding the 5G NR Physical Layer - Keysight](http://img.youtube.com/vi/x_uhh9OHB_0/0.jpg)](https://www.youtube.com/watch?v=x_uhh9OHB_0)
+
+[Keysight Presentation](https://www.keysight.com/upload/cmc_upload/All/Understanding_the_5G_NR_Physical_Layer.pdf)
 
 ## Reference links
-1. [http://www.rfwireless-world.com/Articles/5G-NR-Physical-Layer.html](RFWireless 5G Physical Layer)
+1. [RFWireless 5G Physical Layer](http://www.rfwireless-world.com/Articles/5G-NR-Physical-Layer.html)
