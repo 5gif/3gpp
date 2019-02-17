@@ -10,6 +10,7 @@ The modulation schemes supported are
 -	in the downlink, QPSK, 16QAM, 64QAM, and 256QAM,
 -	in the uplink, QPSK, 16QAM, 64QAM and 256QAM for OFDM with a CP and π/2-BPSK, QPSK, 16QAM, 64QAM and 256QAM for DFT-s-OFDM with a CP
 
+[Relation between Physical Layer specifications](images/phy_specs.png)
 
 * TS 38.201	NR; Physical layer; General description	 
 * TS 38.202	NR; Services provided by the physical layer	 
